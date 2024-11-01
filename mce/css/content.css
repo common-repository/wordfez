@@ -1,0 +1,41 @@
+.mce_plugin_wordfez_fr_begin {
+	border: 0px;
+	border-top: 1px dotted #cccccc;
+	display:block;
+	background-color: #ffffff;
+	background-image: url(../../images/fr.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+.mce_plugin_wordfez_fr_end {
+	border: 0px;
+	border-bottom: 1px dotted #cccccc;
+	display:block;
+	background-color: #ffffff;
+	margin-bottom:1px;
+	background-image: url(../../images/fr.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+.mce_plugin_wordfez_en_begin {
+	border: 0px;
+	border-top: 1px dotted #cccccc;
+	display:block;
+	background-color: #ffffff;
+	background-image: url(../../images/en.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+.mce_plugin_wordfez_en_end {
+	border: 0px;
+	border-bottom: 1px dotted #cccccc;
+	display:block;
+	background-color: #ffffff;
+	margin-bottom:1px;
+	background-image: url(../../images/en.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
